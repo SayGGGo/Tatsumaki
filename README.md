@@ -49,10 +49,10 @@ pip install -r requirements.txt
 
 5. Запустите скрипт
 ```commandline
-python app.py
+python main.py
 ```
 
-6. Откройте http://localhost:2000 в браузере
+6. Посмотрите в консоль
 
 <br><br><br>
 
