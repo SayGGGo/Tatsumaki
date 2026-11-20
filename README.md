@@ -54,10 +54,6 @@ python main.py
 
 <br><br><br>
 
-<img src="/for_readme/functional.png" alt="FUNCTIONAL">
-
-<hr>
-
 <img src="/for_readme/credits.png" alt="CREDITS">
 
 <hr>
