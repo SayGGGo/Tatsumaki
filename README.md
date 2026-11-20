@@ -57,24 +57,6 @@ python main.py
 <img src="/for_readme/functional.png" alt="FUNCTIONAL">
 
 <hr>
-<a name="func"></a>
-<h2>Функционал</h2>
-
-В презентации
-
-<br><br><br>
-
-<img src="/for_readme/demo.png" alt="DEMO">
-
-<hr>
-<a name="demo"></a>
-<h2>Демонстрация</h2>
-
-<img src="/for_readme/first_demo.png" alt="Screen 1">
-<img src="/for_readme/soon.png" alt="Screen 2">
-<img src="/for_readme/soon.png" alt="Screen 3">
-
-<br><br><br>
 
 <img src="/for_readme/credits.png" alt="CREDITS">
 
