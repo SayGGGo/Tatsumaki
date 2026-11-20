@@ -26,7 +26,7 @@
 
 1. Скопируйте репозиторий:
 ``` commandline
-git clone https://github.com/SayGGGo/tornado.git
+git clone https://github.com/SayGGGo/Tatsumaki.git
 ```
 
 2. Создайте виртуальное окружение
